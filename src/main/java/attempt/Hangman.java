@@ -1,3 +1,7 @@
+package attempt;
+
+import exercise.Output;
+
 class Hangman {
 
   private final char[] answer;
